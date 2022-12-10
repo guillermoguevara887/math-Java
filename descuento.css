@@ -1,0 +1,46 @@
+
+.menu{
+
+    border: black solid 1px;
+    border-radius: 5px;
+    background-color: lightgreen;
+   
+    color: rgb(1, 45, 1);
+    display: grid;
+    justify-content: center;
+
+}
+.calculo-menu{
+    padding-top: 50px;
+    display: grid;
+    justify-content: center;
+    border: black solid 1px;
+    background-color: lightblue;
+   
+}
+.precio-label{
+    margin: 30px;
+}
+.resultado-menu {
+    
+    border: black solid 1px;
+    background-color: lightgreen;
+    height: 100%;
+    display: grid;
+    justify-content: center;
+}
+.input{
+    width: 100px;
+}
+.button {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 100px;
+
+}
+.button:hover {
+    background-color: aqua;
+    cursor: pointer;
+}
+
+}
